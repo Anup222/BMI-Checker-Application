@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BMI Checker</string>
+    <string name="wht">Enter Weight</string>
+    <string name="htf">Enter Height in Ft.</string>
+    <string name="hti">Enter Height in inch.</string>
+    <string name="calculate">Calculate</string>
+    <string name="result">Result</string>
+    <string name="made">Made By Anup Gorai</string>
+</resources>
